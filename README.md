@@ -1,4 +1,8 @@
 # MKS GEN_L
+
+# How to buy the MKS Gen_L
+- [MKS GEN_L V1.0 and V2.1](https://www.aliexpress.com/item/32802151924.html)
+
 ## Features
 - Gen_L CPU is ATMEGA2560-AU, 8bit 16MHZ, 5V logic level, stronger anti-interference type
 - Gen_L V2.0 hardware version support TMC2208/2209 UART mode, TMC2130 SPI mode
@@ -6,8 +10,8 @@
 - Support MKS LCD12864A/LCD12864/MKS MINI12864...
 - Support Marlin2.0 firmware and old marlin...
 
-## Firmware
-  - Marlin2.0 link: https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x
+- More information,you can go to [Wiki](https://github.com/makerbase-mks/MKS-GEN_L/wiki)
+
   
 ## How to Build Marlin2.0 by platformio and upload firmware
   - Open project by ATOM
@@ -20,8 +24,3 @@
   ![4-connectboard](https://github.com/makerbase-mks/MKS-GEN_L/blob/master/Picture/4-connectboard.png "4-connectboard")
   - Build and upload firmware
   ![5-build_upload](https://github.com/makerbase-mks/MKS-GEN_L/blob/master/Picture/5-build_upload.png "5-build_upload")
-
-## How to buy the MKS GEN_L 
-  https://www.aliexpress.com/item/32802151924.html?spm=2114.12010612.8148356.3.86d51141VzpLcF
-  ![MKS_GEN_L_V1](https://github.com/makerbase-mks/MKS-GEN_L/blob/master/Picture/MKS_GEN_L_V1.png "MKS_GEN_L_V1")
-  ![MKS_GEN_L_V2](https://github.com/makerbase-mks/MKS-GEN_L/blob/master/Picture/MKS_GEN_L_V2.png "MKS_GEN_L_V2")
