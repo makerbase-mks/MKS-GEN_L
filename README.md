@@ -8,6 +8,7 @@
 
 ## Related tutorials and Notice
 - User Manual.[click here](https://github.com/makerbase-mks/MKS-GEN_L/wiki)
+- Braiman's video tutorial. [click here](https://github.com/makerbase-mks/MKS-GEN_L/wiki/Edward_Tutorials)
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Firmware description
